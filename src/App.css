@@ -1,0 +1,92 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #1e1e2f; /* Cor de fundo escura e elegante */
+    color: #f5f5f5; /* Texto em uma cor clara para contraste */
+  }
+  
+  .app {
+    max-width: 600px;
+    margin: 50px auto;
+    padding: 20px;
+    background: #2b2b40; /* Fundo do container com leve contraste */
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+  }
+  
+  h1 {
+    text-align: center;
+    color: #ffcc00; /* Título em um tom dourado */
+  }
+  
+  .input-section {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 20px;
+  }
+  
+  input {
+    flex: 1;
+    padding: 10px;
+    border: 1px solid #444;
+    border-radius: 4px;
+    background-color: #3a3a4f; /* Fundo escuro do input */
+    color: #f5f5f5; /* Texto claro */
+  }
+  
+  input::placeholder {
+    color: #bbb;
+  }
+  
+  button {
+    padding: 10px 20px;
+    border: none;
+    background-color: #007bff;
+    color: white;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  }
+  
+  button:focus {
+    outline: 2px solid #0056b3;
+    outline-offset: 2px;
+  }
+  
+  .task-list {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .task-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    border: 1px solid #444;
+    border-radius: 4px;
+    background-color: #3a3a4f; /* Fundo do item de tarefa */
+    margin-bottom: 10px;
+  }
+  
+  .task-item span {
+    flex: 1;
+    color: #f5f5f5;
+  }
+  
+  .task-item button {
+    background-color: #dc3545;
+  }
+  
+  .task-item button:hover {
+    background-color: #a71d2a;
+  }
+  
+  .task-item button:focus {
+    outline: 2px solid #a71d2a;
+    outline-offset: 2px;
+  }
+  
