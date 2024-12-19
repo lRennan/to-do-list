@@ -9,8 +9,8 @@ A simple and elegant To-Do List application built with React. This app allows us
 - Stylish and responsive design with a dark theme.
 
 ## Preview
-![App Preview]( ![TO-DO-LIST](https://github.com/user-attachments/assets/2d331983-5a88-4d4a-b837-a66b2dd1aeae)
- )
+![App Preview]
+(![TO-DO-LIST](https://github.com/user-attachments/assets/2d331983-5a88-4d4a-b837-a66b2dd1aeae))
 
 ## Installation
 To get started with this project locally:
