@@ -57,12 +57,6 @@ The application will be available at `http://localhost:3000/`.
 1. Type a task in the input field and click "Add" to add it to the list.
 2. To remove a task, click the "Remove" button next to it. A confirmation will appear before deletion.
 
-## Contributing
-Contributions are welcome! If you have any improvements or features to add, feel free to submit a pull request. Please ensure your code adheres to the existing style and structure.
-
-## License
-This project is licensed under the [MIT License](LICENSE).
-
 ---
 
 Feel free to explore, modify, and share this project!
